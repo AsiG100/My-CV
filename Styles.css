@@ -1,0 +1,37 @@
+body{
+    /*change font to something better*/
+    color:#2A52BE;
+    font-family:perpetua;
+}
+h1{
+    text-align: center;
+    border-bottom: solid #002FA7 2px;
+}
+p{
+    color:black;
+    position:relative;
+    left:120px;
+}
+ul{
+    color:black;
+    position:relative;
+    left:100px;
+}
+h3{
+    color:lightslategray;
+    position:relative;
+    left:110px;
+}
+h2{
+    position:relative;
+    left:100px;
+}
+img{
+    position:relative;
+    left:100px;
+}
+div.details{
+    text-align: center;
+    position: relative;
+    right: 100px;
+}
